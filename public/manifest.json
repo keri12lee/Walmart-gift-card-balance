@@ -1,0 +1,9 @@
+{
+  "short_name": "Gift Balance",
+  "name": "Walmart Gift Card Balance Tracker",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0071ce",
+  "background_color": "#ffffff"
+}
