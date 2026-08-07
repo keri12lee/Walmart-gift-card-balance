@@ -42,11 +42,11 @@ Whether used as a learning project or a foundation for future improvements, this
 
 ## Author
 
-### Alex Carter
+###keri
 
-Email: alex.carter.dev@example.com
+Email: keri12lee@outlook.com
 
-Website: Walmart gift card balance
+Website: [Walmart gift card balance](https://www.walmartgiftcard-balance.com)
 
 Alex Carter is a frontend developer with over 8 years of experience creating modern web applications and digital solutions. He specializes in React development, UI engineering, responsive design, and scalable frontend architecture.
 
